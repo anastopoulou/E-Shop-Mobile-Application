@@ -1,0 +1,76 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Filter on Category -->
+    <item
+        android:id="@+id/filter_category"
+        android:title="@string/filter_category"
+        app:showAsAction="never">
+        <menu>
+            <item
+                android:id="@+id/filter_accessories"
+                android:title="@string/filter_accessories"
+                android:checkable="true" />
+            <item
+                android:id="@+id/filter_clothing"
+                android:title="@string/filter_clothing"
+                android:checkable="true" />
+            <item
+                android:id="@+id/filter_footwear"
+                android:title="@string/filter_footwear"
+                android:checkable="true" />
+        </menu>
+    </item>
+
+    <!-- Filter on Price -->
+    <item
+        android:id="@+id/filter_price"
+        android:title="@string/filter_price"
+        app:showAsAction="never">
+        <menu>
+            <item
+                android:id="@+id/filter_price_below_50"
+                android:title="@string/filter_price_below_50"
+                android:checkable="true" />
+            <item
+                android:id="@+id/filter_price_50_100"
+                android:title="@string/filter_price_50_100"
+                android:checkable="true" />
+            <item
+                android:id="@+id/filter_price_above_100"
+                android:title="@string/filter_price_above_100"
+                android:checkable="true" />
+        </menu>
+    </item>
+
+    <!-- Filter on Rating -->
+    <item
+        android:id="@+id/filter_rating"
+        android:title="@string/filter_rating"
+        app:showAsAction="never">
+        <menu>
+            <item
+                android:id="@+id/filter_rating_1"
+                android:title="@string/filter_rating_1"
+                android:checkable="true" />
+            <item
+                android:id="@+id/filter_rating_2"
+                android:title="@string/filter_rating_2"
+                android:checkable="true" />
+            <item
+                android:id="@+id/filter_rating_3"
+                android:title="@string/filter_rating_3"
+                android:checkable="true" />
+            <item
+                android:id="@+id/filter_rating_4"
+                android:title="@string/filter_rating_4"
+                android:checkable="true" />
+            <item
+                android:id="@+id/filter_rating_5"
+                android:title="@string/filter_rating_5"
+                android:checkable="true" />
+        </menu>
+    </item>
+
+</menu>
+

@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">eShop</string>
+    <string name="toolbar_title">eShop</string>
+    <string name="language_button">EN</string>
+    <string name="search_hint">Αναζήτηση</string>
+    <string name="filter_button">Φίλτρα</string>
+    <string name="navigation_products">Προϊόντα</string>
+    <string name="navigation_cart">Καλάθι</string>
+    <string name="navigation_wishlist">Αγαπημένα</string>
+    <string name="navigation_reviews">Κριτικές</string>
+    <string name="add_to_cart">Προσθήκη στο Καλάθι</string>
+    <string name="add_to_wishlist">Προσθήκη στα Αγαπημένα</string>
+    <string name="rating_title">Βαθμολογία:</string>
+    <string name="comment_title">Σχόλιο:</string>
+    <string name="comment_hint">Μέχρι 40 χαρακτήρες</string>
+    <string name="review_button">Αποστολή</string>
+    <string name="filter_category">Κατηγορία</string>
+    <string name="filter_accessories">Αξεσουάρ</string>
+    <string name="filter_clothing">Ρούχα</string>
+    <string name="filter_footwear">Παπούτσια</string>
+    <string name="filter_price">Τιμή</string>
+    <string name="filter_price_below_50">Κάτω από 50€</string>
+    <string name="filter_price_50_100">50€ - 100€</string>
+    <string name="filter_price_above_100">Πάνω από 100€</string>
+    <string name="filter_rating">Βαθμολογία</string>
+    <string name="filter_rating_1">1 Αστέρι</string>
+    <string name="filter_rating_2">2 Αστέρια</string>
+    <string name="filter_rating_3">3 Αστέρια</string>
+    <string name="filter_rating_4">4 Αστέρια</string>
+    <string name="filter_rating_5">5 Αστέρια</string>
+    <string name="name">Όνομα: %1$s</string>
+    <string name="description">Περιγραφή: %1$s</string>
+    <string name="price">Τιμή: %1$s€</string>
+    <string name="rating">Βαθμολογία: %1$.1f</string>
+    <string name="discount">Έκπτωση: %1$s%%</string>
+    <string name="category">Κατηγορία: %1$s</string>
+    <string name="specifications">Προδιαγραφές: %1$s</string>
+    <string name="size">Μέγεθος: %1$s</string>
+    <string name="color">Χρώμα: %1$s</string>
+    <string name="availability_in_stock">Διαθεσιμότητα: Διαθέσιμο</string>
+    <string name="availability_out_of_stock">Διαθεσιμότητα: Εξαντλήθηκε</string>
+    <string name="product_not_available">Το προϊόν είναι προσωρινά μη διαθέσιμο.</string>
+    <string name="product_added_to_cart">Προστέθηκε στο καλάθι</string>
+    <string name="product_added_to_wishlist">Προστέθηκε στα αγαπημένα</string>
+    <string name="title_wishlist">Λίστα Επιθυμιών</string>
+    <string name="title_cart">Καλάθι Αγορών</string>
+    <string name="title_review">Κριτικές</string>
+    <string name="total_price_label">Σύνολο: %1$.2f</string>
+    <string name="button_checkout">Αγορά</string>
+    <string name="remove_from_cart">Αφαίρεση</string>
+    <string name="price_format">%1$.2f €</string>
+    <string name="checkout_message">Η αγορά ήταν επιτυχής</string>
+    <string name="remove_from_wishlist">Αφαίρεση από Αγαπημένα</string>
+    <string name="empty_comment">Παρακαλώ προσθέστε σχόλιο</string>
+    <string name="review_posted">Η κριτική ανέβηκε με επιτυχία</string>
+    <string name="empty_cart">Το καλάθι είναι άδειο</string>
+    <string name="empty_wishlist">Η λίστα επιθυμιών είναι άδεια</string>
+    <string name="empty_review">Δεν υπάρχει προϊόν που περιμένει κριτική</string>
+    <string-array name="rating_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>

@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">eShop</string>
+    <string name="toolbar_title">eShop</string>
+    <string name="language_button">EL</string>
+    <string name="search_hint">Search</string>
+    <string name="filter_button">Filter</string>
+    <string name="navigation_products">Products</string>
+    <string name="navigation_cart">Cart</string>
+    <string name="navigation_wishlist">Wishlist</string>
+    <string name="navigation_reviews">Reviews</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="add_to_wishlist">Add to Wishlist</string>
+    <string name="rating_title">Rating:</string>
+    <string name="comment_title">Comment:</string>
+    <string name="comment_hint">Max 40 characters</string>
+    <string name="review_button">Send</string>
+    <string name="filter_category">Category</string>
+    <string name="filter_accessories">Accessories</string>
+    <string name="filter_clothing">Clothing</string>
+    <string name="filter_footwear">Footwear</string>
+    <string name="filter_price">Price</string>
+    <string name="filter_price_below_50">Below 50€</string>
+    <string name="filter_price_50_100">50€ - 100€</string>
+    <string name="filter_price_above_100">Above 100€</string>
+    <string name="filter_rating">Rating</string>
+    <string name="filter_rating_1">1 Star</string>
+    <string name="filter_rating_2">2 Stars</string>
+    <string name="filter_rating_3">3 Stars</string>
+    <string name="filter_rating_4">4 Stars</string>
+    <string name="filter_rating_5">5 Stars</string>
+    <string name="name">Name: %1$s</string>
+    <string name="description">Description: %1$s</string>
+    <string name="price">Price: %1$s€</string>
+    <string name="rating">Rating: %1$.1f</string>
+    <string name="discount">Discount: %1$s%%</string>
+    <string name="category">Category: %1$s</string>
+    <string name="specifications">Specifications: %1$s</string>
+    <string name="size">Size: %1$s</string>
+    <string name="color">Color: %1$s</string>
+    <string name="availability_in_stock">Availability: In Stock</string>
+    <string name="availability_out_of_stock">Availability: Out of Stock</string>
+    <string name="product_not_available">This product is currently not available.</string>
+    <string name="product_added_to_cart">Product added to cart</string>
+    <string name="product_added_to_wishlist">Product added to wishlist</string>
+    <string name="title_wishlist">Wishlist</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_review">Reviews</string>
+    <string name="total_price_label">Total: %1$.2f</string>
+    <string name="button_checkout">Checkout</string>
+    <string name="remove_from_cart">Remove</string>
+    <string name="price_format">%1$.2f €</string>
+    <string name="checkout_message">The purchase was successful</string>
+    <string name="remove_from_wishlist">Remove from Wishlist</string>
+    <string name="empty_comment">Please enter a comment</string>
+    <string name="review_posted">Review posted successfully</string>
+    <string name="empty_cart">Cart is empty</string>
+    <string name="empty_wishlist">Wishlist is empty</string>
+    <string name="empty_review">No product to review</string>
+    <string-array name="rating_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
